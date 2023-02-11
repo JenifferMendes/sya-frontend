@@ -4,6 +4,6 @@ O SYA (School for Young ARMYs) é um projeto educacional criado por ARMYs para o
 
 O nosso objetivo é oferecer um estudo completo, acessível, gratuito para todos, e ainda apoiar a educação e o ensino de todos que tem interesse em se aprimorar em algum idioma, capacitando assim mais pessoas para o mundo globalizado.
 
-mais informações em [SYA](schoolforyoungarmys.carrd.co)
+mais informações em [SYA](https://schoolforyoungarmys.carrd.co)
 
 ![Design sem nome (1)](https://user-images.githubusercontent.com/115995202/218256178-bbd7a794-c45e-401f-a193-6ba90eaab267.png)
