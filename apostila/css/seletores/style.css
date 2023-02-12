@@ -1,0 +1,14 @@
+h1 {
+    background-color: black;
+    color: white;
+}
+
+.class-teste {
+    background-color: blue;
+    color: black;
+}
+
+#id-teste {
+    background-color: purple;
+    color: yellow;
+}
