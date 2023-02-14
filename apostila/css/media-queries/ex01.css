@@ -1,0 +1,13 @@
+/* Estilo padrão */
+body {
+    font-size: 10rem;
+    background-color: #2c2c8b;
+}
+
+/* Media query para dispositivos menores que 720px */
+@media (max-width: 720px) {
+    body {
+        font-size: 5rem;
+        background-color: #56077e;
+    }
+}
